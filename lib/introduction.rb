@@ -8,6 +8,7 @@ def introduction (name)
 end
 
 introduction ("Josh")
+introduction ("Dan")
 
 
 
